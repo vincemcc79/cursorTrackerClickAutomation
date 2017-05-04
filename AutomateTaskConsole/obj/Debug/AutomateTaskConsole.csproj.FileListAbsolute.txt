@@ -1,0 +1,11 @@
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\AutomateTaskConsole.exe.config
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\AutomateTaskConsole.exe
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\AutomateTaskConsole.pdb
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\Castle.Core.dll
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\TestStack.White.dll
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\Castle.Core.xml
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\TestStack.White.pdb
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\bin\Debug\TestStack.White.xml
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\obj\Debug\AutomateTaskConsole.csprojResolveAssemblyReference.cache
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\obj\Debug\AutomateTaskConsole.exe
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\AutomateTaskConsole\obj\Debug\AutomateTaskConsole.pdb

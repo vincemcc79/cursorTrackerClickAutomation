@@ -1,0 +1,1 @@
+C:\Users\vmccarthy\documents\visual studio 2015\Projects\ScreenCaptureAndAutomation\ScreenClickAndActionAutomation\bin\Debug\ScreenClickAndActionAutomation.exe.config
